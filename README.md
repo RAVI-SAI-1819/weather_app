@@ -14,7 +14,7 @@ The weather data is fetched from the OpenWeatherMap API.
 1st step: 
    clone the repository:
         
-      git clone "need to add github page link"
+      git clone [https://github.com/RAVI-SAI-1819/weather_app]
         
       cd weather_app
 
