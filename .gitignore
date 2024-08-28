@@ -112,6 +112,8 @@ lib/generated_plugin_registrant.dart
 .dart_tool/
 .packages
 build/
+.metadata
+analysis_options.yaml
 # If you're building an application, you may want to check-in your pubspec.lock
 pubspec.lock
 
