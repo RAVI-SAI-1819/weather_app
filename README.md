@@ -13,13 +13,15 @@ The weather data is fetched from the OpenWeatherMap API.
 ## Installation
 1st step: 
    clone the repository:
-        git clone "need to add github page link"
-    cd weather_app
+        
+      git clone "need to add github page link"
+        
+      cd weather_app
 
 2nd step:
+    
     flutter pub get
-
-    to get all the package which are used in this project 
+   to get all the package which are used in this project 
  
 3rd step: 
     i used the geolocator package in pubspec.yaml file which will lead to  
@@ -38,23 +40,28 @@ add the following in allprojects -  ext.kotlin_version = '<current_version>'
 
 4th step:
 add the following to AndroidManifest.xml for giving the permission location and network access 
+    
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
 
 5th step: 
-    create a file .env in lib folder and add the following in .env file
+    Create a file .env in lib folder and add the following in .env file
+    
     WEATHER_API_KEY='Your OpenWeatherApiKey"
 
--https://home.openweathermap.org/api_keys
+https://home.openweathermap.org/api_keys
 
 6th step:
+    
     flutter run 
+    
 to run the application
 
 7th step:
-    run:
+to build apk run:
+
         flutter build apk
-    to build the apk file 
+
 
 Automatic Location:
 When the app is launched, it will request location permissions from the user.
@@ -69,5 +76,9 @@ The app enhances the user experience by changing background images based on the 
 For example, a sunny day might display a bright, clear sky image, while a rainy day could show raindrops on a windowpane.
 
 Follow me on:
-LinkedIn:https://www.linkedin.com/in/akkina-ravi-sai-chowdary/
-Blog:http://knrlearning.blogspot.com/
+LinkedIn: https://www.linkedin.com/in/akkina-ravi-sai-chowdary/
+
+Blog: http://knrlearning.blogspot.com/
+
+![screenshot](https://github.com/user-attachments/assets/8d4ec0bd-a9d1-4998-9e3a-906c4d713728)
+
