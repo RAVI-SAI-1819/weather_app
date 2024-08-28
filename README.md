@@ -76,8 +76,8 @@ The app enhances the user experience by changing background images based on the 
 For example, a sunny day might display a bright, clear sky image, while a rainy day could show raindrops on a windowpane.
 
 # Follow me on:
-[LinkedIn](https://www.linkedin.com/in/akkina-ravi-sai-chowdary/)
-[Blog](http://knrlearning.blogspot.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akkina-ravi-sai-chowdary/)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](http://knrlearning.blogspot.com/)
 
 ![screenshot](https://github.com/user-attachments/assets/8d4ec0bd-a9d1-4998-9e3a-906c4d713728)
 
